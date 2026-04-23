@@ -1,0 +1,7 @@
+species_id,nombre_comun,nombre_cientifico,familia,habitat,altitud_min,altitud_max,modo_deteccion
+SP001,Gallito de las rocas,Rupicola peruvianus,Cotingidae,bosque montano húmedo,500,2400,audio-visual
+SP002,Tucán de pecho blanco,Ramphastos tucanus,Ramphastidae,bosque tropical húmedo,100,1200,visual
+SP003,Hormiguero de vientre blanco,Myrmeciza longipes,Thamnophilidae,sotobosque húmedo,100,900,audio
+SP004,Tángara paraíso,Tangara chilensis,Thraupidae,dosel de bosque húmedo,100,1400,visual
+SP005,Batará mayor,Taraba major,Thamnophilidae,bordes de bosque y matorral,100,1200,audio-visual
+SP006,Carpintero lineado,Dryocopus lineatus,Picidae,bosque secundario y bordes,100,1800,audio-visual

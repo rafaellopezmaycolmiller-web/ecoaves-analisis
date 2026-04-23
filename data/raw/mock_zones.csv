@@ -1,0 +1,7 @@
+zone_id,nombre_zona,lat,lon,ecosistema,altitud
+Z001,Tarapoto Norte,-6.4667,-76.3667,bosque tropical,400
+Z002,Tarapoto Sur,-6.4900,-76.3800,bosque tropical,420
+Z003,Alrededores Ahuashiyacu,-6.4290,-76.3230,bosque montano húmedo,850
+Z004,Banda de Shilcayo,-6.4930,-76.3520,bosque húmedo premontano,500
+Z005,Morales Rural,-6.4700,-76.3805,borde de bosque,390
+Z006,San Antonio de Cumbaza,-6.4100,-76.3100,bosque húmedo,760
