@@ -50,6 +50,27 @@ def render_heatmap(df):
     center_lat = filtered["lat"].mean()
     center_lon = filtered["lon"].mean()
 
+    st.markdown("## Interpretación del mapa")
+
+    col_l1, col_l2, col_l3, col_l4 = st.columns(4)
+    col_l1.error("🔴 Alta concentración")
+    col_l2.warning("🟡 Media-alta")
+    col_l3.success("🟢 Media")
+    col_l4.info("🔵 Baja")
+
+    st.markdown(
+        """
+        <div class="section-card">
+            <h3>Uso ecológico</h3>
+            <p>
+                Los mapas permiten identificar zonas de mayor actividad, áreas donde se concentran registros
+                y posibles puntos prioritarios para monitoreo o validación con especialistas.
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
     tab1, tab2, tab3 = st.tabs(
         [
             "Densidad de detecciones",
