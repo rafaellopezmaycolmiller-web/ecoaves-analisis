@@ -10,3 +10,6 @@ librosa
 torch
 requests
 python-dotenv
+birdnetlib
+tensorflow
+resampy

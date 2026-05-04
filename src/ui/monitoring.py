@@ -137,10 +137,10 @@ def render_monitoring(fusion_df, audio_df=None, visual_df=None):
     # ======================================
     # CARGA DE EVIDENCIA
     # ======================================
-    with st.expander("Cargar evidencia y archivos fuente", expanded=False):
+    with st.expander("Ingresar nuevos registros (CSV o Inferencia IA)", expanded=False):
         st.markdown(
-            "Sube archivos CSV para reemplazar los datos de prueba. "
-            "Si todavía no cargas archivos reales, el sistema seguirá usando la data piloto."
+            "Sube archivos CSV por lotes o utiliza un archivo de audio/imagen para ejecutar "
+            "una inferencia de IA en tiempo real y validar con eBird."
         )
         render_upload()
 

@@ -34,16 +34,18 @@ load_styles()
 
 data = load_all()
 
-if "custom_data" in st.session_state:
-    audio_df = st.session_state["custom_data"]["audio"]
-    visual_df = st.session_state["custom_data"]["visual"]
-    species_df = st.session_state["custom_data"]["species"]
-    zones_df = st.session_state["custom_data"]["zones"]
-else:
-    audio_df = data["audio"]
-    visual_df = data["visual"]
-    species_df = data["species"]
-    zones_df = data["zones"]
+if "custom_data" not in st.session_state:
+    st.session_state["custom_data"] = {
+        "audio": data["audio"].copy(),
+        "visual": data["visual"].copy(),
+        "species": data["species"].copy(),
+        "zones": data["zones"].copy(),
+    }
+
+audio_df = st.session_state["custom_data"]["audio"]
+visual_df = st.session_state["custom_data"]["visual"]
+species_df = st.session_state["custom_data"]["species"]
+zones_df = st.session_state["custom_data"]["zones"]
 
 # =========================
 # PROCESAMIENTO PRINCIPAL
