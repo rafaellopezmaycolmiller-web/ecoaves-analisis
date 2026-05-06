@@ -1,17 +1,101 @@
 nombre_comun,nombre_cientifico,codigo_ebird,fecha_observacion,lat,lon,ubicacion,cantidad
-Eared Dove,Zenaida auriculata,eardov1,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,10
-Western Cattle-Egret,Ardea ibis,categr1,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,1
-Black Vulture,Coragyps atratus,blkvul,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,15
-Turkey Vulture,Cathartes aura,turvul,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,5
-Tropical Kingbird,Tyrannus melancholicus,trokin,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,3
-Blue-and-white Swallow,Pygochelidon cyanoleuca,bawswa1,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,4
-House Sparrow,Passer domesticus,houspa,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,5
-Saffron Finch,Sicalis flaveola,saffin,2026-04-20 08:43,-6.504532,-76.3723612,Aeropuerto Comandante FAP Guillermo del Castillo Paredes,4
-Burrowing Owl,Athene cunicularia,burowl,2026-04-06 16:32,-6.496955,-76.3355184,Centro Recreacional Laguna Venecia,2
-Chestnut-eared Aracari,Pteroglossus castanotis,cheara1,2026-04-06 16:32,-6.496955,-76.3355184,Centro Recreacional Laguna Venecia,3
-Blue-headed Parrot,Pionus menstruus,blhpar1,2026-04-06 16:32,-6.496955,-76.3355184,Centro Recreacional Laguna Venecia,2
-Chestnut-tailed Antbird,Sciaphylax hemimelaena,chtant2,2026-04-06 16:32,-6.496955,-76.3355184,Centro Recreacional Laguna Venecia,1
-Blue-gray Tanager,Thraupis episcopus,bugtan,2026-04-06 16:32,-6.496955,-76.3355184,Centro Recreacional Laguna Venecia,5
-Palm Tanager,Thraupis palmarum,paltan1,2026-04-06 16:32,-6.496955,-76.3355184,Centro Recreacional Laguna Venecia,4
-Blue-black Grassquit,Volatinia jacarina,blbgra1,2026-04-06 16:32,-6.496955,-76.3355184,Centro Recreacional Laguna Venecia,2
-Ferruginous Pygmy-Owl,Glaucidium brasilianum,fepowl,2026-04-03 00:14,-6.4720024,-76.3598761,Sector Lomas De San Pedro,1
+Tropical Kingbird,Tyrannus melancholicus,trokin,2026-05-03 06:07,-6.676091,-76.319167,"Auto selected -6.67609, -76.31917",1.0
+Great Egret,Ardea alba,greegr,2026-05-03 05:56,-6.5884089,-76.3061857,Puente Colombia,4.0
+Common Squirrel-Cuckoo,Piaya cayana,squcuc1,2026-05-01 15:09,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Crimson-crested Woodpecker,Campephilus melanoleucos,crcwoo1,2026-05-01 15:09,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Masked Tityra,Tityra semifasciata,mastit1,2026-05-01 15:09,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Social Flycatcher,Myiozetetes similis,socfly1,2026-05-01 15:09,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Blue-gray Tanager,Thraupis episcopus,bugtan,2026-05-01 15:09,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Palm Tanager,Thraupis palmarum,paltan1,2026-05-01 15:09,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Black-fronted Nunbird,Monasa nigrifrons,blfnun1,2026-05-01 14:58,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Red-necked Woodpecker,Campephilus rubricollis,renwoo1,2026-05-01 14:58,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Great Kiskadee,Pitangus sulphuratus,grekis,2026-05-01 14:58,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Purple-throated Euphonia,Euphonia chlorotica,puteup1,2026-05-01 14:58,-6.60723,-76.21348,Pumarinri Amazon Lodge,2.0
+Yellow-rumped Cacique,Cacicus cela,yercac1,2026-05-01 14:58,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Silver-beaked Tanager,Ramphocelus carbo,sibtan2,2026-05-01 14:58,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Black Vulture,Coragyps atratus,blkvul,2026-05-01 14:56,-6.60723,-76.21348,Pumarinri Amazon Lodge,2.0
+Blue Dacnis,Dacnis cayana,bludac1,2026-05-01 14:56,-6.60723,-76.21348,Pumarinri Amazon Lodge,2.0
+Speckled Chachalaca,Ortalis guttata,specha3,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,2.0
+Gray-cowled Wood-Rail,Aramides cajaneus,gycwor1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+Pied Plover,Hoploxypterus cayanus,pielap1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,2.0
+Hoatzin,Opisthocomus hoazin,hoatzi1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,
+Black-crowned Night Heron,Nycticorax nycticorax,bcnher,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+Striated Heron,Butorides striata,strher2,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+Western Cattle-Egret,Ardea ibis,categr1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+Ringed Kingfisher,Megaceryle torquata,rinkin1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+Chestnut-eared Aracari,Pteroglossus castanotis,cheara1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+White-eyed Parakeet,Psittacara leucophthalmus,whepar2,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,
+Drab Water Tyrant,Ochthornis littoralis,drwtyr1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+White-winged Swallow,Tachycineta albiventer,whwswa1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,4.0
+Southern Rough-winged Swallow,Stelgidopteryx ruficollis,srwswa1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,2.0
+White-banded Swallow,Atticora fasciata,whbswa2,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,4.0
+Buff-breasted Wren,Cantorchilus leucotis,bubwre1,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+Red-capped Cardinal,Paroaria gularis,reccar4,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,1.0
+Magpie Tanager,Cissopis leverianus,magtan2,2026-04-30 07:09,-6.5839275,-76.2808448,Rio Huallaga--Rio Mayo,2.0
+Rufous Nightjar,Antrostomus rufus,rufnig1,2026-04-30 00:46,-6.5804151,-76.2998176,"SM-106 / Carretera a Shapaja, San Martín, PE (-6.58, -76.3)",1.0
+Tropical Screech-Owl,Megascops choliba,trsowl,2026-04-30 00:46,-6.5804151,-76.2998176,"SM-106 / Carretera a Shapaja, San Martín, PE (-6.58, -76.3)",1.0
+Ferruginous Pygmy-Owl,Glaucidium brasilianum,fepowl,2026-04-30 00:46,-6.5804151,-76.2998176,"SM-106 / Carretera a Shapaja, San Martín, PE (-6.58, -76.3)",1.0
+Black-bellied Thorntail,Discosura langsdorffi,bkbtho1,2026-04-29 10:25,-6.46323,-76.30751,ACR Cordillera Escalera--Mirador Alto Ahuashiyacu,2.0
+Short-tailed Swift,Chaetura brachyura,shtswi1,2026-04-29 07:08,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,6.0
+Yellow-headed Caracara,Daptrius chimachima,yehcar1,2026-04-29 07:08,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,2.0
+Thick-billed Euphonia,Euphonia laniirostris,thbeup1,2026-04-29 07:08,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,2.0
+Paradise Tanager,Tangara chilensis,partan1,2026-04-29 07:08,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,6.0
+Purple Honeycreeper,Cyanerpes caeruleus,purhon1,2026-04-29 07:08,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,2.0
+Violet-headed Hummingbird,Klais guimeti,vihhum1,2026-04-28 16:53,-6.46323,-76.30751,ACR Cordillera Escalera--Mirador Alto Ahuashiyacu,4.0
+Golden-tailed Sapphire,Chrysuronia oenone,gotsap1,2026-04-28 16:53,-6.46323,-76.30751,ACR Cordillera Escalera--Mirador Alto Ahuashiyacu,1.0
+Rufous-bellied Euphonia,Euphonia rufiventris,rubeup1,2026-04-28 13:22,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,1.0
+Bay-headed Tanager,Tangara gyrola,bahtan1,2026-04-28 13:22,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,2.0
+Green Honeycreeper,Chlorophanes spiza,grehon1,2026-04-28 13:22,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,2.0
+Long-tailed Potoo,Nyctibius aethereus,lotpot1,2026-04-28 10:44,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+White-bearded Hermit,Phaethornis hispidus,whbher1,2026-04-28 10:44,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Koepcke's Hermit,Phaethornis koepckeae,koeher1,2026-04-28 10:44,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Black-throated Hermit,Phaethornis atrimentalis,bkther1,2026-04-28 10:44,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Gray-breasted Sabrewing,Campylopterus largipennis,gybsab1,2026-04-28 10:44,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Golden-headed Manakin,Ceratopipra erythrocephala,gohman1,2026-04-28 10:44,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Masked Crimson Tanager,Ramphocelus nigrogularis,mactan1,2026-04-28 10:44,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,2.0
+Gilded Barbet,Capito auratus,gilbar1,2026-04-24 17:36,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,1.0
+Streaked Flycatcher,Myiodynastes maculatus,strfly1,2026-04-24 17:36,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,1.0
+Roadside Hawk,Rupornis magnirostris,roahaw,2026-04-24 16:57,-6.4616267,-76.2891161,ACR Cordillera Escalera--Centro de Investigación y Turístico La Biodiversidad,1.0
+Blue-headed Parrot,Pionus menstruus,blhpar1,2026-04-24 16:57,-6.4616267,-76.2891161,ACR Cordillera Escalera--Centro de Investigación y Turístico La Biodiversidad,2.0
+Chivi Vireo,Vireo chivi,chivir1,2026-04-24 16:57,-6.4616267,-76.2891161,ACR Cordillera Escalera--Centro de Investigación y Turístico La Biodiversidad,1.0
+Black-faced Tanager,Schistochlamys melanopis,blftan1,2026-04-24 16:57,-6.4616267,-76.2891161,ACR Cordillera Escalera--Centro de Investigación y Turístico La Biodiversidad,2.0
+Green-backed Trogon,Trogon viridis,gnbtro1,2026-04-24 15:17,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Cobalt-winged Parakeet,Brotogeris cyanoptera,cowpar1,2026-04-24 15:17,-6.60723,-76.21348,Pumarinri Amazon Lodge,5.0
+White-collared Swift,Streptoprocne zonaris,whcswi,2026-04-24 15:10,-6.60723,-76.21348,Pumarinri Amazon Lodge,1.0
+Andean Cock-of-the-rock,Rupicola peruvianus,andcot1,2026-04-24 13:21,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Olive-faced Flatbill,Tolmomyias viridiceps,yebfly4,2026-04-24 13:21,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Dusky-capped Greenlet,Pachysylvia hypoxantha,ducgre1,2026-04-24 13:21,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Violaceous Jay,Cyanocorax violaceus,viojay1,2026-04-24 13:21,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,2.0
+Russet-backed Oropendola,Psarocolius angustifrons,ruboro1,2026-04-24 13:21,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Fulvous-crested Tanager,Tachyphonus surinamus,fuctan1,2026-04-24 13:21,-6.415906,-76.317833,Asociacion para La Conservacion de Aves y La Biodiversidad Koepcke's Hermit,1.0
+Turkey Vulture,Cathartes aura,turvul,2026-04-24 12:04,-6.43495,-76.2669666,ACR Cordillera Escalera--Torre de Metal,3.0
+Plumbeous Kite,Ictinia plumbea,plukit1,2026-04-24 12:04,-6.43495,-76.2669666,ACR Cordillera Escalera--Torre de Metal,2.0
+Swallow-winged Puffbird,Chelidoptera tenebrosa,swwpuf1,2026-04-24 12:04,-6.43495,-76.2669666,ACR Cordillera Escalera--Torre de Metal,1.0
+Fork-tailed Woodnymph,Thalurania furcata,fotwoo1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Swallow-tailed Kite,Elanoides forficatus,swtkit,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Ocellated Woodcreeper,Xiphorhynchus ocellatus,ocewoo1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Ochre-bellied Flycatcher,Mionectes oleagineus,ocbfly1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Cliff Flycatcher,Hirundinea ferruginea,clifly1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Western Wood-Pewee,Contopus sordidulus,wewpew,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Slaty-capped Shrike-Vireo,Vireolanius leucotis,scsvir1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,2.0
+Brown-capped Vireo,Vireo leucophrys,brcvir1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Orange-bellied Euphonia,Euphonia xanthogaster,orbeup1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,4.0
+Tropical Parula,Setophaga pitiayumi,tropar,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Hepatic Tanager,Piranga flava,heptan,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Yellow-lored Tanager,Chlorothraupis frenata,cartan2,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,1.0
+Black-faced Dacnis,Dacnis lineata,bkfdac2,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,2.0
+Buff-throated Saltator,Saltator maximus,butsal1,2026-04-24 09:41,-6.4513924,-76.2917018,ACR Cordillera Escalera--Túnel Yurimaguas,2.0
+Long-billed Starthroat,Heliomaster longirostris,lobsta1,2026-04-24 09:05,-6.4616267,-76.2891161,ACR Cordillera Escalera--Centro de Investigación y Turístico La Biodiversidad,1.0
+Bat Falcon,Falco rufigularis,batfal1,2026-04-24 09:05,-6.4616267,-76.2891161,ACR Cordillera Escalera--Centro de Investigación y Turístico La Biodiversidad,1.0
+White-necked Jacobin,Florisuga mellivora,whnjac1,2026-04-24 07:06,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,1.0
+Amethyst Woodstar,Calliphlox amethystina,amewoo1,2026-04-24 07:06,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,1.0
+Dusky-chested Flycatcher,Myiozetetes luteiventris,ducfly2,2026-04-24 07:06,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,1.0
+Southern House Wren,Troglodytes musculus,houwre4,2026-04-24 07:06,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,1.0
+Yellow-bellied Tanager,Ixothraupis xanthogastra,yebtan2,2026-04-24 07:06,-6.4603188,-76.3022938,ACR Cordillera Escalera--El Mono y La Gata,2.0
+Yellow-browed Sparrow,Ammodramus aurifrons,yebspa1,2026-04-24 06:26,-6.4592452,-76.2981692,"Route 5NB, San Martín (-6.459, -76.298)",1.0
+Chestnut-bellied Seed-Finch,Sporophila angolensis,cbsfin,2026-04-24 06:26,-6.4592452,-76.2981692,"Route 5NB, San Martín (-6.459, -76.298)",1.0
+Planalto Hermit,Phaethornis pretrei,plaher1,2026-04-20 17:10,-6.579271,-76.3009608,Senda Tyrant-Manakin,1.0
+Sapphire-spangled Emerald,Chionomesa lactea,saseme1,2026-04-20 17:10,-6.579271,-76.3009608,Senda Tyrant-Manakin,3.0
+Short-tailed Hawk,Buteo brachyurus,shthaw,2026-04-20 17:10,-6.579271,-76.3009608,Senda Tyrant-Manakin,2.0
+Blue-black Grassquit,Volatinia jacarina,blbgra1,2026-04-20 17:10,-6.579271,-76.3009608,Senda Tyrant-Manakin,1.0
+Oriole Blackbird,Gymnomystax mexicanus,oribla1,2026-04-20 16:52,-6.6504632,-76.3265995,"Fernando Belaunde Terry (-6.65, -76.327)",1.0

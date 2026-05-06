@@ -88,6 +88,10 @@ def render_home(metrics, fusion_df=None, regional_coverage=None):
         unsafe_allow_html=True,
     )
 
+    # =====================================================
+    # ESTADO GENERAL
+    # =====================================================
+
     st.markdown("### Estado general del prototipo")
 
     kpi1, kpi2, kpi3, kpi4 = st.columns(4)
@@ -139,6 +143,75 @@ def render_home(metrics, fusion_df=None, regional_coverage=None):
             """,
             unsafe_allow_html=True,
         )
+
+    # =====================================================
+    # ORIGEN DE LOS DATOS
+    # =====================================================
+
+    st.markdown("### Origen de los datos")
+
+    d1, d2, d3 = st.columns(3)
+
+    with d1:
+        st.markdown(
+            """
+            <div class="data-source-card real-source">
+                <div class="module-icon">🌎</div>
+                <h3>eBird API</h3>
+                <p>
+                    Registros reales consultados desde eBird para identificar aves probables
+                    observadas recientemente cerca de Tarapoto y San Martín.
+                </p>
+                <span class="tag">Fuente real externa</span>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    with d2:
+        st.markdown(
+            """
+            <div class="data-source-card pilot-source">
+                <div class="module-icon">🧪</div>
+                <h3>Datos piloto EcoAves</h3>
+                <p>
+                    Registros acústicos, visuales y geográficos simulados para validar el flujo
+                    funcional del prototipo: detección, fusión, mapas y análisis.
+                </p>
+                <span class="tag">Datos de prueba</span>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    with d3:
+        st.markdown(
+            """
+            <div class="data-source-card validation-source">
+                <div class="module-icon">✅</div>
+                <h3>Validación experta</h3>
+                <p>
+                    Observaciones realizadas por especialistas sobre las detecciones del sistema.
+                    En esta fase se almacenan localmente en archivos CSV.
+                </p>
+                <span class="tag">Revisión humana</span>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    st.info(
+        """
+        **Nota metodológica:** En esta fase, eBird funciona como fuente regional real de referencia.
+        Las detecciones acústico-visuales de EcoAves son datos piloto usados para validar la arquitectura
+        del sistema. En una fase posterior, estos registros pueden ser reemplazados por audios e imágenes
+        recolectados en campo o datasets etiquetados.
+        """
+    )
+
+    # =====================================================
+    # MÓDULOS PRINCIPALES
+    # =====================================================
 
     st.markdown("### Módulos principales")
 
@@ -197,6 +270,10 @@ def render_home(metrics, fusion_df=None, regional_coverage=None):
 
         if st.button("Abrir Validación", use_container_width=True):
             go_to("Validación")
+
+    # =====================================================
+    # LECTURA EJECUTIVA
+    # =====================================================
 
     st.markdown("### Lectura ejecutiva")
 
